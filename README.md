@@ -1,2 +1,0 @@
-# Projects
-Proyectos de practica
